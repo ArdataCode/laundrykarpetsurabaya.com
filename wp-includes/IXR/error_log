@@ -1,0 +1,24 @@
+[03-Feb-2024 05:21:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[03-Feb-2024 05:21:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[08-Feb-2024 19:52:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[08-Feb-2024 19:52:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[27-Feb-2024 20:43:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[27-Feb-2024 20:43:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

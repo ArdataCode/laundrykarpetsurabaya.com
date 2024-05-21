@@ -1,0 +1,290 @@
+{
+    "version": "0.4",
+    "title": "Block: Reviews Grid",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "85cda20",
+            "settings": {
+                "gap": "no",
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=a095705"
+                }
+            },
+            "elements": [
+                {
+                    "id": "2bd87f4",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=3860db6"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6679ab1c",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-quote-left",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "align": "left",
+                                "size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "16",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=97d3d03",
+                                    "secondary_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5daf3c49",
+                            "settings": {
+                                "testimonial_content": "Curabitur blandit tempus portt faucibus mollis interdum. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibend integer posuere erat a ante venenatis dapibus posuere velit lacinia quam aliquet.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.hygienex.hocud.com\/wp-content\/uploads\/attractive-business-woman.jpg",
+                                    "id": 365,
+                                    "alt": "Attractive business woman",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Min C. Frias",
+                                "testimonial_job": "Boca Raton, FL",
+                                "testimonial_alignment": "left",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "image_border_border": "solid",
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "3",
+                                    "right": "3",
+                                    "bottom": "3",
+                                    "left": "3",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "content_typography_typography": "globals\/typography?id=2eccc82",
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "image_border_color": "globals\/colors?id=f525775",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "name_text_color": "globals\/colors?id=primary",
+                                    "job_text_color": "globals\/colors?id=9fa390f",
+                                    "job_typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "362d8efa",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=3860db6"
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4827648c",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-quote-left",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "align": "left",
+                                "size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "16",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=97d3d03",
+                                    "secondary_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "76298cc6",
+                            "settings": {
+                                "testimonial_content": "Curabitur blandit tempus portt faucibus mollis interdum. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibend integer posuere erat a ante venenatis dapibus posuere velit lacinia quam aliquet.",
+                                "testimonial_image": {
+                                    "url": "https:\/\/www.hygienex.hocud.com\/wp-content\/uploads\/businessman-working-connecting-tablet-concept.jpg",
+                                    "id": 953,
+                                    "alt": "Businessman Working Connecting Tablet Concept",
+                                    "source": "library"
+                                },
+                                "testimonial_image_size": "medium",
+                                "testimonial_name": "Frank R. Vang",
+                                "testimonial_job": "Defiance, OH",
+                                "testimonial_alignment": "left",
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "image_border_border": "solid",
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "3",
+                                    "right": "3",
+                                    "bottom": "3",
+                                    "left": "3",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "content_typography_typography": "globals\/typography?id=2eccc82",
+                                    "content_content_color": "globals\/colors?id=text",
+                                    "image_border_color": "globals\/colors?id=f525775",
+                                    "name_typography_typography": "globals\/typography?id=accent",
+                                    "name_text_color": "globals\/colors?id=primary",
+                                    "job_text_color": "globals\/colors?id=9fa390f",
+                                    "job_typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

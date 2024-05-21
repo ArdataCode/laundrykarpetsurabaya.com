@@ -1,0 +1,356 @@
+{
+    "version": "0.4",
+    "title": "Block: Pricing List",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-pricing",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "59071007",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "60",
+                    "bottom": "80",
+                    "left": "60",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "60",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2a69245e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "align": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "aebb54",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "title_text": "Pricing For Specific Cleaning Services",
+                                "description_text": "Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis est non commodo luctus nisi erat porttitor.",
+                                "title_size": "h2",
+                                "text_align": "center",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=cb91df0",
+                                    "title_typography_typography": "globals\/typography?id=6ec7457",
+                                    "description_color": "globals\/colors?id=9fa390f",
+                                    "description_typography_typography": "globals\/typography?id=secondary"
+                                },
+                                "title_color": "#0C1225",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Jost",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 38,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "600",
+                                "title_typography_text_transform": "none",
+                                "title_typography_font_style": "normal",
+                                "title_typography_text_decoration": "none",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "description_color": "#666E83",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "text_align_mobile": "center",
+                                "_element_width_mobile": "inherit",
+                                "text_align_tablet": "center",
+                                "_element_width_tablet": "inherit",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "60",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "initial"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4dd4baab",
+                            "settings": {
+                                "price_list": [
+                                    {
+                                        "title": "Window Cleaning",
+                                        "item_description": "Vestibulum id ligula porta felis penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                                        "price": "$50",
+                                        "link": {
+                                            "url": ""
+                                        },
+                                        "_id": "f2e868b",
+                                        "image": {
+                                            "url": "https:\/\/www.hygienex.hocud.com\/wp-content\/uploads\/mature-woman-cleaning-windows-at-home-in-spring.jpg",
+                                            "id": 721,
+                                            "alt": "Mature woman cleaning windows at home in spring",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor Cleaning",
+                                        "item_description": "Vestibulum id ligula porta felis penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                                        "price": "$80",
+                                        "link": {
+                                            "url": ""
+                                        },
+                                        "image": {
+                                            "url": "https:\/\/www.hygienex.hocud.com\/wp-content\/uploads\/young-cleaner-cleaning-floor-with-vacuum-cleaner-near-multicultural-colleagues.jpg",
+                                            "id": 732,
+                                            "alt": "young cleaner cleaning floor with vacuum cleaner near multicultural colleagues",
+                                            "source": "library"
+                                        },
+                                        "_id": "366915f"
+                                    }
+                                ],
+                                "separator_weight": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "separator_spacing": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "image_size_size": "custom",
+                                "image_size_custom_dimension": {
+                                    "width": "80",
+                                    "height": "80"
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "4",
+                                    "bottom": "4",
+                                    "left": "4",
+                                    "isLinked": true
+                                },
+                                "image_spacing": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "row_gap": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "32",
+                                    "right": "32",
+                                    "bottom": "32",
+                                    "left": "32",
+                                    "isLinked": true
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "initial",
+                                "_element_width_tablet": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "heading_color": "globals\/colors?id=cb91df0",
+                                    "heading_typography_typography": "globals\/typography?id=97e33e2",
+                                    "price_color": "globals\/colors?id=primary",
+                                    "description_color": "globals\/colors?id=9fa390f",
+                                    "description_typography_typography": "globals\/typography?id=text",
+                                    "separator_color": "globals\/colors?id=f525775",
+                                    "price_typography_typography": "globals\/typography?id=97e33e2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "23741bb5",
+                            "settings": {
+                                "price_list": [
+                                    {
+                                        "title": "Roof Cleaning",
+                                        "item_description": "Vestibulum id ligula porta felis penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                                        "price": "$80",
+                                        "link": {
+                                            "url": ""
+                                        },
+                                        "_id": "f2e868b",
+                                        "image": {
+                                            "url": "https:\/\/www.hygienex.hocud.com\/wp-content\/uploads\/washing-plastic-carport-roof.jpg",
+                                            "id": 1323,
+                                            "alt": "Washing Plastic Carport Roof",
+                                            "source": "library"
+                                        }
+                                    },
+                                    {
+                                        "title": "Kitchen Cleaning",
+                                        "item_description": "Vestibulum id ligula porta felis penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                                        "price": "$60",
+                                        "link": {
+                                            "url": ""
+                                        },
+                                        "image": {
+                                            "url": "https:\/\/www.hygienex.hocud.com\/wp-content\/uploads\/happy-young-woman-cleaning-lady-smiling-while-cleaning-the-kitchen.jpg",
+                                            "id": 1325,
+                                            "alt": "Happy young woman, cleaning lady smiling while cleaning the kitchen",
+                                            "source": "library"
+                                        },
+                                        "_id": "366915f"
+                                    }
+                                ],
+                                "separator_weight": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "separator_spacing": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "image_size_size": "custom",
+                                "image_size_custom_dimension": {
+                                    "width": "80",
+                                    "height": "80"
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "4",
+                                    "bottom": "4",
+                                    "left": "4",
+                                    "isLinked": true
+                                },
+                                "image_spacing": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "row_gap": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "32",
+                                    "right": "32",
+                                    "bottom": "32",
+                                    "left": "32",
+                                    "isLinked": true
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "32",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "initial",
+                                "_element_width_tablet": "inherit",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "heading_color": "globals\/colors?id=cb91df0",
+                                    "heading_typography_typography": "globals\/typography?id=97e33e2",
+                                    "price_color": "globals\/colors?id=primary",
+                                    "description_color": "globals\/colors?id=9fa390f",
+                                    "description_typography_typography": "globals\/typography?id=text",
+                                    "separator_color": "globals\/colors?id=f525775",
+                                    "price_typography_typography": "globals\/typography?id=97e33e2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

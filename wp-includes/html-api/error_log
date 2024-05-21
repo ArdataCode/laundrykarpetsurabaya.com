@@ -1,0 +1,4 @@
+[27-Feb-2024 20:49:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/html-api/class-wp-html-processor.php on line 131

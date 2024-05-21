@@ -1,0 +1,12 @@
+[03-Feb-2024 05:21:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/SimplePie/Core.php on line 53
+[08-Feb-2024 19:52:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/SimplePie/Core.php on line 53
+[27-Feb-2024 20:43:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/SimplePie/Core.php on line 53

@@ -1,0 +1,12 @@
+[03-Feb-2024 05:21:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[08-Feb-2024 19:52:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[27-Feb-2024 20:44:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/class-wp-rest-response.php on line 17

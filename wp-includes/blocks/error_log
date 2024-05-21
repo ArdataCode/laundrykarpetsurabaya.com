@@ -1,0 +1,72 @@
+[08-Jan-2024 10:43:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[27-Jan-2024 14:18:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[27-Jan-2024 20:25:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[30-Jan-2024 13:38:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[31-Jan-2024 05:18:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[03-Feb-2024 05:21:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[05-Feb-2024 00:08:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[08-Feb-2024 19:52:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[11-Feb-2024 01:11:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[11-Feb-2024 14:49:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[14-Feb-2024 07:51:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[14-Feb-2024 16:03:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[15-Feb-2024 13:37:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[15-Feb-2024 19:45:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[22-Feb-2024 19:14:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[27-Feb-2024 09:03:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[27-Feb-2024 20:44:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8
+[29-Feb-2024 18:30:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/blocks/index.php on line 8

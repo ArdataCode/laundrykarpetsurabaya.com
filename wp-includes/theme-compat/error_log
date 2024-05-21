@@ -1,0 +1,36 @@
+[27-Feb-2024 20:50:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/comments.php on line 9
+[27-Feb-2024 20:50:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/embed-404.php on line 14
+[27-Feb-2024 20:50:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/embed-content.php on line 13
+[27-Feb-2024 20:50:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/embed.php on line 13
+[27-Feb-2024 20:50:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/footer-embed.php on line 18
+[27-Feb-2024 20:50:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/footer.php on line 9
+[27-Feb-2024 20:50:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/header-embed.php on line 19
+[27-Feb-2024 20:50:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/header.php on line 9
+[27-Feb-2024 20:50:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/theme-compat/sidebar.php on line 9

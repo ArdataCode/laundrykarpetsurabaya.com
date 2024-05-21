@@ -1,0 +1,4 @@
+[27-Feb-2024 20:51:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6

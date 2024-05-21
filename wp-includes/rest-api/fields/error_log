@@ -1,0 +1,16 @@
+[27-Feb-2024 20:50:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[27-Feb-2024 20:50:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[27-Feb-2024 20:50:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[27-Feb-2024 20:50:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundrykarpetsurabaya.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
